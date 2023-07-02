@@ -4,6 +4,7 @@ import org.springframework.data.annotation.Id;
 import lombok.*;
 import org.springframework.data.mongodb.core.mapping.Document;
 
+import java.io.Serializable;
 import java.util.List;
 
 @Getter
